@@ -1,0 +1,11 @@
+produto1;produto2;produto3;produto4
+leite;cerveja;pao;manteiga
+pao;cafe;manteiga;
+pao;cafe;manteiga;
+leite;cafe;pao;manteiga
+cerveja;;;
+manteiga;;;
+pao;;;
+feijao;;;
+arroz;feijao;;
+arroz;;;
